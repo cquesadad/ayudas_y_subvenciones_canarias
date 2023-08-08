@@ -35,8 +35,8 @@ export const headerData = {
           href: '#',
         },
         {
-          text: 'Contact',
-          href: '#',
+          text: 'Contacto',
+          href: '/contacto',
         },
         {
           text: 'Terms',
@@ -57,7 +57,7 @@ export const headerData = {
       href: getBlogPermalink(),
     },
   ],
-  actions: [{ type: 'button', text: 'Download', href: 'https://github.com/onwidget/astrowind' }],
+  actions: [{ type: 'button', text: 'Solicitar', href: 'https://github.com/onwidget/astrowind' }],
 };
 
 export const footerData = {
